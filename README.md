@@ -1,7 +1,7 @@
 <h1 align="center">I'm Matthew Frieri</h1>
 <h3 align="center">Currently exploring Web Development</h3>
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td width="50%">
       <h3 align="left">Check out my <a href="https://matthewfrieri.design" target="_blank">Portfolio Website</a></h3>
@@ -30,7 +30,8 @@
   </tr>
 </table>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewfrieri&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewfrieri&layout=compact" alt="Top Languages"/>
+</div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=matthewfrieri&label=Profile%20views&color=0e75b6&style=flat" alt="matthewfrieri" /></p>
