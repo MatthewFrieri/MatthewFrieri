@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matthew Frieri</h1>
 <p align="center">Currently exploring Web Development and Data Visualizations</p>
 
-<h3 align="left">Check out my <a href="https://matthewfrieri.design" target="_blank">Portfolio Website</a></h3>
+<h3 align="left">Check out my <a href="https://portfolio-website-v2-psi-orpin.vercel.app" target="_blank">Portfolio Website</a></h3>
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/matthew-frieri" target="_blank">LinkedIn</a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
