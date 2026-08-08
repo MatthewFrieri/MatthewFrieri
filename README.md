@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Matthew Frieri</h1>
-<p align="center">I have an honest love for learning new things.</p>
 
 <h3 align="left">Check out my <a href="https://matthew.frieri.ca" target="_blank">Portfolio Website</a></h3>
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/matthew-frieri" target="_blank">LinkedIn</a></h3>
